@@ -1,0 +1,1 @@
+var json_Banesco_3 = {"type":"FeatureCollection","name":"Banesco_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2","nombre":"Banesco"},"geometry":{"type":"Point","coordinates":[-66.905670520709776,10.482487237978649]}}]}
